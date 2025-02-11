@@ -60,10 +60,10 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="co.edu.unicauca.figures.domain.entities.SquareTest" name="co.edu.unicauca.figures.domain.entities.SquareTest.testCalculatePerimeterMin" time="0.001"/>
-  <testcase classname="co.edu.unicauca.figures.domain.entities.SquareTest" name="co.edu.unicauca.figures.domain.entities.SquareTest.testCalculateAreaMin" time="0"/>
   <testcase classname="co.edu.unicauca.figures.domain.entities.SquareTest" name="co.edu.unicauca.figures.domain.entities.SquareTest.testCalculatePerimeterAv" time="0"/>
-  <testcase classname="co.edu.unicauca.figures.domain.entities.SquareTest" name="co.edu.unicauca.figures.domain.entities.SquareTest.testCalculateAreaMax" time="0"/>
-  <testcase classname="co.edu.unicauca.figures.domain.entities.SquareTest" name="co.edu.unicauca.figures.domain.entities.SquareTest.testCalculatePerimeterMax" time="0"/>
+  <testcase classname="co.edu.unicauca.figures.domain.entities.SquareTest" name="co.edu.unicauca.figures.domain.entities.SquareTest.testCalculatePerimeterMin" time="0.001"/>
   <testcase classname="co.edu.unicauca.figures.domain.entities.SquareTest" name="co.edu.unicauca.figures.domain.entities.SquareTest.testCalculateAreaAv" time="0"/>
+  <testcase classname="co.edu.unicauca.figures.domain.entities.SquareTest" name="co.edu.unicauca.figures.domain.entities.SquareTest.testCalculateAreaMax" time="0"/>
+  <testcase classname="co.edu.unicauca.figures.domain.entities.SquareTest" name="co.edu.unicauca.figures.domain.entities.SquareTest.testCalculateAreaMin" time="0"/>
+  <testcase classname="co.edu.unicauca.figures.domain.entities.SquareTest" name="co.edu.unicauca.figures.domain.entities.SquareTest.testCalculatePerimeterMax" time="0"/>
 </testsuite>

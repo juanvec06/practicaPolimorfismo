@@ -60,10 +60,10 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="co.edu.unicauca.figures.domain.entities.TriangleTest" name="co.edu.unicauca.figures.domain.entities.TriangleTest.testCalculatePerimeterMin" time="0"/>
-  <testcase classname="co.edu.unicauca.figures.domain.entities.TriangleTest" name="co.edu.unicauca.figures.domain.entities.TriangleTest.testCalculateAreaMin" time="0"/>
   <testcase classname="co.edu.unicauca.figures.domain.entities.TriangleTest" name="co.edu.unicauca.figures.domain.entities.TriangleTest.testCalculatePerimeterAv" time="0"/>
-  <testcase classname="co.edu.unicauca.figures.domain.entities.TriangleTest" name="co.edu.unicauca.figures.domain.entities.TriangleTest.testCalculateAreaMax" time="0"/>
-  <testcase classname="co.edu.unicauca.figures.domain.entities.TriangleTest" name="co.edu.unicauca.figures.domain.entities.TriangleTest.testCalculatePerimeterMax" time="0"/>
+  <testcase classname="co.edu.unicauca.figures.domain.entities.TriangleTest" name="co.edu.unicauca.figures.domain.entities.TriangleTest.testCalculatePerimeterMin" time="0"/>
   <testcase classname="co.edu.unicauca.figures.domain.entities.TriangleTest" name="co.edu.unicauca.figures.domain.entities.TriangleTest.testCalculateAreaAv" time="0"/>
+  <testcase classname="co.edu.unicauca.figures.domain.entities.TriangleTest" name="co.edu.unicauca.figures.domain.entities.TriangleTest.testCalculateAreaMax" time="0"/>
+  <testcase classname="co.edu.unicauca.figures.domain.entities.TriangleTest" name="co.edu.unicauca.figures.domain.entities.TriangleTest.testCalculateAreaMin" time="0"/>
+  <testcase classname="co.edu.unicauca.figures.domain.entities.TriangleTest" name="co.edu.unicauca.figures.domain.entities.TriangleTest.testCalculatePerimeterMax" time="0"/>
 </testsuite>

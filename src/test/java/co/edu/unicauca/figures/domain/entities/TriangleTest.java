@@ -46,6 +46,20 @@ public class TriangleTest {
         });
     }
     @Test
+    void testTriangleInequalityException() {
+        // Assert
+        Exception exception = assertThrows(Exception.class, () -> {
+            new Triangle(1,1,1,1);
+        });
+    }
+    @Test
+    void testTriangleBaseException() {
+        // Assert
+        Exception exception = assertThrows(Exception.class, () -> {
+            new Triangle(2,1,1,1);
+        });
+    }
+    @Test
     void testTriangleWithZeroRightSideThrowsException() {
         // Assert
         Exception exception = assertThrows(Exception.class, () -> {
