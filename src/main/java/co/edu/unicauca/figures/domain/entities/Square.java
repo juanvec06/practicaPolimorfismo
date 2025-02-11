@@ -6,12 +6,16 @@ package co.edu.unicauca.figures.domain.entities;
 
 /**
  *
- * @author spart
+ * @author Juan David Vela, Cristian Camilo Unas 
  */
 public class Square extends Figure {
 
     private double side;/* Lado  */
-    //Constructor
+    /**
+     * Constructor of Square
+     * @param side is the length of the side of the triangle
+     * @throws Exception 
+     */
     public Square(double side) throws Exception{
         if (side<=0)
             throw new Exception("side cannot be less than or equal to 0");

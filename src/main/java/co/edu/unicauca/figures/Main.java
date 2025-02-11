@@ -9,14 +9,14 @@ import java.util.List;
 
 /**
  *
- * @author spart
+ * @author Juan David Vela, Cristian Camilo Unas 
  */
 public class Main {
 
     public static void main(String[] args) {
         List<Figure> figures = new ArrayList<>();
         try{
-            Figure fig1 = new Circle(0);
+            Figure fig1 = new Circle(2);
             Figure fig2 = new Square(10);
             Figure fig3 = new Triangle(3,3,3,4);
 

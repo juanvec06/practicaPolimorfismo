@@ -13,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author spart
+ * @author Juan David Vela, Cristian Camilo Unas 
  */
 public class CircleTest {
     

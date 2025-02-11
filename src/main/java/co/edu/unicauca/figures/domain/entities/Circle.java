@@ -3,7 +3,7 @@ package co.edu.unicauca.figures.domain.entities;
 
 /**
  *
- * @author spart
+ * @author Juan David Vela, Cristian Camilo Unas 
  */
 public class Circle extends Figure{
     private double radius;
